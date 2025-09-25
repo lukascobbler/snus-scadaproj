@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "Sensor.S2.Host": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:58209;http://localhost:58212"
+    }
+  }
+}
